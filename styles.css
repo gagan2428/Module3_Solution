@@ -1,0 +1,30 @@
+h1{
+	color: black;
+}
+h2{
+	text-align: center;
+	padding: 20px;
+}
+h3{
+	text-align: center;
+}
+a.nav-link{
+	background-color: white;
+	border: 1px solid black;
+	text-align: center;
+
+}
+section{
+	background-color: grey;
+	padding: 20px;
+	margin: 15px;
+}
+span.navbar-toggler-icon{
+	border: 1px solid black;
+}
+
+.container-fluid{
+	background-color:  grey;
+	padding: 20px;
+
+}
